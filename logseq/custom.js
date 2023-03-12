@@ -1,0 +1,1 @@
+logseq.api.show_msg('Custom.js Loaded Successfully')
