@@ -1,6 +1,11 @@
 # This is a basic workflow to help you get started with Actions
 
 name: CI
+inputs:
+   theme:
+        description: "selected theme"
+        required: true
+        default: "light"
 
 # Controls when the workflow will run
 on:
